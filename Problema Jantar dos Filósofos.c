@@ -1,3 +1,5 @@
+// INTEGRANTES DO GRUPO: VICENZO DE SOUZA, ROMEO NORO E ANTHONY GUEDES
+
 #include <stdio.h>
 #include <pthread.h>
 #include <semaphore.h>
